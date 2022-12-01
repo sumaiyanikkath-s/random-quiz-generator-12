@@ -1,5 +1,5 @@
 var questionBank = [];
-questionBank.push(problem121());
+/*questionBank.push(problem121());
 questionBank.push(problem122());
 questionBank.push(problem123());
 questionBank.push(problem124());
@@ -18,6 +18,26 @@ questionBank.push(problem1216());
 questionBank.push(problem1217());
 questionBank.push(problem1218());
 questionBank.push(problem1219());
-questionBank.push(problem1220());
+questionBank.push(problem1220());*/
+questionBank.push(problem1221());
+questionBank.push(problem1222());
+questionBank.push(problem1223());
+questionBank.push(problem1224());
+questionBank.push(problem1225());
+questionBank.push(problem1226());
+questionBank.push(problem1227());
+questionBank.push(problem1228());
+questionBank.push(problem1229());
+questionBank.push(problem1230());
+questionBank.push(problem1231());
+questionBank.push(problem1232());
+questionBank.push(problem1233());
+questionBank.push(problem1234());
+questionBank.push(problem1235());
+questionBank.push(problem1236());
+questionBank.push(problem1237());
+questionBank.push(problem1238());
+questionBank.push(problem1239());
+questionBank.push(problem1240());
 console.log(questionBank);
 
